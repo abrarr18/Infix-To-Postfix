@@ -1,2 +1,2 @@
 # Infix-To-Postfix
-<img src="https://github.com/abrarr18/ChessGameWithAI/blob/master/chesspic.PNG" width=500><br>
+<img src="https://github.com/abrarr18/Infix-To-Postfix/blob/main/InfixToPostfixJava.PNG" width=500><br>
